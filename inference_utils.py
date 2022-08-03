@@ -5,7 +5,7 @@ import numpy as np
 import six
 import time
 import glob
-from IPython.display import display
+#from IPython.display import display
 
 from six import BytesIO
 
